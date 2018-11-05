@@ -4,17 +4,20 @@
 
 .navigation-bar li {
   display: inline-block;
-  line-height: 20px;
   vertical-align: middle;
-  color: white;
   font-size: 21px;
 }
-
-#what {
-  padding-left: 0px;
+.navigation-bar li:first-child{
+  float:left;
 }
 
-#new-game {
+.navigation-bar li:last-child{
   float: right;
 }
 
+#what, #new-game {
+  vertical-align: middle;
+  color: white;
+  font-size: 21px;
+  text-decoration: none;
+}
