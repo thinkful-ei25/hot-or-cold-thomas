@@ -8,4 +8,3 @@ ReactDOM.render(
   <HotOrCold />,
   document.getElementById('root')
 );
-
