@@ -1,0 +1,27 @@
+* {
+  background-color: rgb(17, 17, 80);
+}
+
+.guess-form {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+
+.feedback {
+  background-color: rgb(206, 53, 53);
+  color: white;
+  padding: 20px;
+}
+
+.guess-input {
+  background-color: rgb(68, 56, 122);
+  color: white;
+  padding: 20px;
+}
+
+.guess-history {
+  background-color: rgb(30, 201, 201);
+  color: white;
+  padding: 20px;
+}

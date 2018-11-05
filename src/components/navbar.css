@@ -1,0 +1,19 @@
+.navigation-bar {
+  padding: 20px;
+}
+
+.navigation-bar li {
+  display: inline-block;
+  line-height: 20px;
+  vertical-align: middle;
+  color: white;
+}
+
+#what {
+  padding-left: 0px;
+}
+
+#new-game {
+  float: right;
+}
+
